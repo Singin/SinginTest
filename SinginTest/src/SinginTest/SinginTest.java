@@ -7,11 +7,19 @@ public class SinginTest {
 	System.out.println("Singin.");
 	
 	afficherNombre();
+	afficherTexte();
+	afficherNombre();
+	afficherTexte();
+	afficherNombre();
+	afficherTexte();
+	afficherNombre();
+	afficherTexte();
+	
 	
   }
   
 
-  public void afficherTexte(){
+  public static void afficherTexte(){
       System.out.println("Un texte");
   }
   
@@ -19,5 +27,6 @@ public class SinginTest {
 	System.out.println("Un nombre" + 20);
 
   }
+  
   
 }
