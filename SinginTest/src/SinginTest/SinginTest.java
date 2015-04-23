@@ -8,6 +8,19 @@ public class SinginTest {
 	
 	afficherNombre();
 	
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        System.out.println("Un texte");
+        System.out.println("Un texte");
+        
   }
   
 
