@@ -8,5 +8,8 @@ public class SinginTest {
 	
   }
   
+  public void afficherTexte(){
+      System.out.println("Un texte");
+  }
   
 }
