@@ -6,7 +6,12 @@ public class SinginTest {
 	
 	System.out.println("Singin.");
 	
+	afficherNombre();
+	
   }
   
+  public static void afficherNombre(){
+	System.out.println("Un nombre" + 20);
+  }
   
 }
